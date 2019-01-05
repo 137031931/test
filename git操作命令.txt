@@ -1,0 +1,9 @@
+创建本地仓库:git init
+添加文件:git add 文件名
+提交文件:git commit -m "提交说明"
+初始化用户名:git config --global user.name "Your Name"
+初始化邮箱:git config --global user.email "you@example.com"
+回退命令是:git reset --hard HEAD^
+连接仓库的命令:git remote add origin https://github.com/137031931/test.git
+将远程仓库同步到本地命令:git pull origin master
+更新到远程仓库命令:git push -u origin master
