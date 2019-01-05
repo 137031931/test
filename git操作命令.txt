@@ -1,3 +1,4 @@
+保存所有修改:git add -A
 创建本地仓库:git init
 添加文件:git add 文件名
 状态查询命令:git status
