@@ -1,13 +1,14 @@
-±£´æËùÓĞĞŞ¸Ä:git add -A
-´´½¨±¾µØ²Ö¿â:git init
-Ìí¼ÓÎÄ¼ş:git add ÎÄ¼şÃû
-×´Ì¬²éÑ¯ÃüÁî:git status
-Ìá½»ÎÄ¼ş:git commit -m "Ìá½»ËµÃ÷"
-³õÊ¼»¯ÓÃ»§Ãû:git config --global user.name "Your Name"
-³õÊ¼»¯ÓÊÏä:git config --global user.email "you@example.com"
-»ØÍËÃüÁîÊÇ:git reset --hard HEAD^
-Á¬½Ó²Ö¿âµÄÃüÁî:git remote add origin https://github.com/137031931/test.git
-É¾³ıÁ´½ÓÃüÁî:git remote rm master
-»ñÈ¡Ô¶³Ì¿âÓë±¾µØÍ¬²½ºÏ²¢:git pull --rebase origin master
-½«Ô¶³Ì²Ö¿âÍ¬²½µ½±¾µØÃüÁî:git pull origin master
-¸üĞÂµ½Ô¶³Ì²Ö¿âÃüÁî:git push -u origin master
+ä¿å­˜æ‰€æœ‰ä¿®æ”¹:git add -A
+åˆ›å»ºæœ¬åœ°ä»“åº“:git init
+æ·»åŠ æ–‡ä»¶:git add æ–‡ä»¶å
+çŠ¶æ€æŸ¥è¯¢å‘½ä»¤:git status
+æäº¤æ–‡ä»¶:git commit -m "æäº¤è¯´æ˜"
+åˆå§‹åŒ–ç”¨æˆ·å:git config --global user.name "Your Name"
+åˆå§‹åŒ–é‚®ç®±:git config --global user.email "you@example.com"
+å›é€€å‘½ä»¤æ˜¯:git reset --hard HEAD^
+æŸ¥çœ‹è¿œç¨‹ä»“åº“åœ°å€å‘½ä»¤:git remote -v
+è¿æ¥ä»“åº“çš„å‘½ä»¤:git remote add origin https://github.com/137031931/test.git
+åˆ é™¤é“¾æ¥å‘½ä»¤:git remote rm master
+è·å–è¿œç¨‹åº“ä¸æœ¬åœ°åŒæ­¥åˆå¹¶:git pull --rebase origin master
+å°†è¿œç¨‹ä»“åº“åŒæ­¥åˆ°æœ¬åœ°å‘½ä»¤:git pull origin master
+æ›´æ–°åˆ°è¿œç¨‹ä»“åº“å‘½ä»¤:git push -u origin master
