@@ -6,10 +6,10 @@
 初始化用户名:git config --global user.name "Your Name"
 初始化邮箱:git config --global user.email "you@example.com"
 回退命令是:git reset --hard HEAD^
-查看远程仓库地址命令:git remote -v
+查看远程仓库地址命令:git remote -v 
 连接仓库的命令:git remote add origin https://github.com/137031931/test.git
-删除链接命令:git remote rm master
-使用新的连接命令:  git remote set-url https://github.com/137031931/hello-spring-cloud.git
+删除链接命令:git remote rm master 
+使用新的连接命令:  git remote add origin https://github.com/137031931/hello-spring-cloud.git
 获取远程库与本地同步合并:git pull --rebase origin master
 将远程仓库同步到本地命令:git pull origin master
 更新到远程仓库命令:git push -u origin master
