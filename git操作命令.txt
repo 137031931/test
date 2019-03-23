@@ -3,7 +3,7 @@
 添加文件:git add 文件名
 状态查询命令:git status
 提交文件:git commit -m "提交说明"
-删除指定文件夹:git rm 文件名名称
+删除指定文件夹:git rm -r文件名名称
 初始化用户名:git config --global user.name "Your Name"
 初始化邮箱:git config --global user.email "you@example.com"
 回退命令是:git reset --hard HEAD^
